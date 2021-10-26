@@ -1,0 +1,71 @@
+
+  /*X-Small devices Start*/
+  @media (min-width: 320px) and (max-width: 575.98px) {
+
+ }
+  /*X-Small devices Start*/
+
+  /*lg devices Start*/
+  @media (min-width: 992px) and (max-width: 1199.98px){}
+ /*lg devices End*/
+
+ /*Media devices Start*/
+ @media (min-width: 768px) and (max-width: 991.98px){}
+ /*Media devices End*/
+
+ @media (min-width: 575px) and (max-width: 757.98px){}
+
+
+ @media (min-width: 320px) and (max-width: 574.98px){}
+
+
+
+
+
+ @media (max-width: 768px){
+/*Header Starts Here*/
+#header .top-header .container, .container-sm {
+    max-width: 100%;
+}
+#header .top-header .top-header-info p {
+    text-align: center;
+    font-size: 16px;
+}
+#header .top-header .top-header-info span {
+    font-size: 16px;
+    padding: 6px;
+}
+#header .top-header .midle {
+    transform: skew(0deg, 0deg);
+}
+#header .top-header .midle .top-header-midle {
+    transform: skew(0deg, 0deg);
+}
+#header .top-header .midle .top-header-midle p {
+    font-size: 18px;
+    line-height: 40px;
+}
+#header .top-header .top-header-scl-cont {
+    text-align: center;
+}
+#header .top-header .top-header-scl-cont ul li a {
+    font-size: 20px;
+}
+/*Header Ends Here*/
+ }
+
+ @media (min-width: 992px){
+    /*Nav Header Start*/
+    #header .myusNav .container .logo{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        transition: .5s ease-in;
+    }
+    #header .myusNav .container .logoActive{
+        left: 0%;
+        transform: translate(0 ,-50%);
+    }
+    /*Nav Header End*/
+ }
