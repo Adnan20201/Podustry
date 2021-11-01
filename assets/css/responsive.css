@@ -54,7 +54,7 @@
 /*Header Ends Here*/
 
 
-/
+
  }
  @media (max-width: 992px){
 /*Testimonal Section Start*/
@@ -94,5 +94,30 @@
     }
     /*About Section End */
 
-    
+    /*------------------ABOUT HTML START-----------------------*/
+
+     /* About Aboutus section Start */
+     #about-aboutus .col-offset-1 {
+        margin-left: 8.33333333%;
+    }
+    #about-aboutus .col-md-6{
+        width: 50%;
+    }
+   /* About Aboutus section End */
+
+
+     /*About Mission Start */
+     #about-mission .col-md-offset-1 {
+        margin-right: 8.33333333%;
+    }
+    #about-aboutus .col-md-5{
+        width: 41.66666667%;
+    }
+    /*About Mission End */
+
+     /*------------------ABOUT HTML END-----------------------*/
  }
+
+
+
+ 

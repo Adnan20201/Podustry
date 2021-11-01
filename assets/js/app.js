@@ -48,6 +48,13 @@ $(function ($){
    
    });
 
+
+   //CounterUP
+   $('.counter-number').counterUp({
+      delay: 10,
+    time: 1000
+   });
+
 //client-feedback slider
 
    $('.client-feedback-slider').slick({
@@ -88,8 +95,22 @@ $(function ($){
     
    });
 
-   
 
+
+
+    /*------------------ABOUT HTML START-----------------------*/
    
-   
+//
+   $('.about-team-slider').slick({
+      prevArrow:'<a href=""><i class="slider-arrow slider-arrow-right fas fa-chevron-right"></i></a>',
+      nextArrow:'<a href=""><i class="slider-arrow slider-arrow-left fas fa-chevron-left"></i></a>',
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      // autoplay: true,
+      // autoplaySpeed: 10000,
+      centerMode: true,
+      centerPadding: '0px',
+      
+     });
+   /*------------------ABOUT HTML END-----------------------*/
 })
