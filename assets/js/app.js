@@ -15,7 +15,9 @@ $(function ($){
 
    //Pogo Slider
 
-   var mySlider = $('.pogoSlider').pogoSlider({}).data('');
+   var mySlider = $('.pogoSlider').pogoSlider({
+         
+   }).data('');
 
    // Service-slider
    $('.service-slider').slick({

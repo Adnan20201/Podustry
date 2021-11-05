@@ -5,59 +5,238 @@
  }
   /*X-Small devices Start*/
 
-  /*lg devices Start*/
+ /*-------------------lg devices Start--------------------*/
   @media (min-width: 992px) and (max-width: 1199.98px){}
- /*lg devices End*/
+ /*-------------------lg devices Start--------------------*/
 
- /*Media devices Start*/
- @media (min-width: 768px) and (max-width: 991.98px){}
- /*Media devices End*/
+ /*--------------------------Media devices Start-----------------------------------*/
 
- @media (min-width: 575px) and (max-width: 757.98px){}
+ @media (min-width: 768px) and (max-width: 991.98px){
 
-
- @media (min-width: 320px) and (max-width: 574.98px){}
+      /*---------------------index.html Start---------------------*/
+        /*---------------------index.html End-----------------------*/
 
 
+        /*---------------------about.html Start---------------------*/
+        /*---------------------about.html End-----------------------*/
 
 
+
+        /*---------------------portfolio.html Start--------------------*/
+        /*---------------------portfolio.html End---------------------*/
+
+
+        /*---------------------contact.html Start--------------------*/
+        /*---------------------contact.html End----------------------*/
+
+
+
+        /*---------------------blogList.html Start---------------------*/
+        /*---------------------blogList.html End-----------------------*/
+
+
+
+        /*---------------------blogDetails.html Start--------------------*/
+        /*---------------------blogDetails.html End----------------------*/
+
+
+
+        /*---------------------Error.html Start-------------------------*/
+        /*---------------------Error.html End---------------------------*/
+
+
+
+        /*---------------------comingSoon.html Start----------------------*/
+        /*---------------------comingSoon.html End----------------------*/
+ }
+
+    /*-----------------------------Media devices END-----------------------------------*/
+
+
+
+  /*-------------------------------Small devices Start----------------------------------*/
+
+ @media (min-width: 575px) and (max-width: 757.98px){
+
+      /*---------------------index.html Start---------------------*/
+        /*---------------------index.html End-----------------------*/
+
+
+        /*---------------------about.html Start---------------------*/
+        /*---------------------about.html End-----------------------*/
+
+
+
+        /*---------------------portfolio.html Start--------------------*/
+        /*---------------------portfolio.html End---------------------*/
+
+
+        /*---------------------contact.html Start--------------------*/
+        /*---------------------contact.html End----------------------*/
+
+
+
+        /*---------------------blogList.html Start---------------------*/
+        /*---------------------blogList.html End-----------------------*/
+
+
+
+        /*---------------------blogDetails.html Start--------------------*/
+        /*---------------------blogDetails.html End----------------------*/
+
+
+
+        /*---------------------Error.html Start-------------------------*/
+        /*---------------------Error.html End---------------------------*/
+
+
+
+        /*---------------------comingSoon.html Start----------------------*/
+        /*---------------------comingSoon.html End----------------------*/
+
+ }
+
+  /*-------------------------------Small devices End----------------------------------*/
+
+
+
+
+/*---------------------------------Mobail Devices Start-------------------------------*/
+
+ @media (min-width: 320px) and (max-width: 574.98px){
+
+        /*---------------------index.html Start---------------------*/
+        /*---------------------index.html End-----------------------*/
+
+
+        /*---------------------about.html Start---------------------*/
+        /*---------------------about.html End-----------------------*/
+
+
+
+        /*---------------------portfolio.html Start--------------------*/
+        /*---------------------portfolio.html End---------------------*/
+
+
+        /*---------------------contact.html Start--------------------*/
+        /*---------------------contact.html End----------------------*/
+
+
+
+        /*---------------------blogList.html Start---------------------*/
+        /*---------------------blogList.html End-----------------------*/
+
+
+
+        /*---------------------blogDetails.html Start--------------------*/
+        /*---------------------blogDetails.html End----------------------*/
+
+
+
+        /*---------------------Error.html Start-------------------------*/
+        /*---------------------Error.html End---------------------------*/
+
+
+
+        /*---------------------comingSoon.html Start----------------------*/
+        /*---------------------comingSoon.html End----------------------*/
+        
+ }
+
+  /*-------------------------------Mobail Devices Start---------------------------------*/
+
+
+
+  /*---------------------------------Small devices Start (MAX)---------------------------------*/
 
  @media (max-width: 768px){
-/*Header Starts Here*/
-#header .top-header .container, .container-sm {
-    max-width: 100%;
-}
-#header .top-header .top-header-info p {
-    text-align: center;
-    font-size: 16px;
-}
-#header .top-header .top-header-info span {
-    font-size: 16px;
-    padding: 6px;
-}
-#header .top-header .midle {
-    transform: skew(0deg, 0deg);
-}
-#header .top-header .midle .top-header-midle {
-    transform: skew(0deg, 0deg);
-}
-#header .top-header .midle .top-header-midle p {
-    font-size: 18px;
-    line-height: 40px;
-}
-#header .top-header .top-header-scl-cont {
-    text-align: center;
-}
-#header .top-header .top-header-scl-cont ul li a {
-    font-size: 20px;
-}
-/*Header Ends Here*/
 
+    
+
+        /*---------------------index.html Start---------------------*/
+        
+    /*-------Header Starts Here-------*/
+    #header .top-header .container .container-sm {
+        max-width: 100%;
+    }
+    #header .top-header .top-header-info p {
+        text-align: center;
+        font-size: 16px;
+    }
+    #header .top-header .top-header-info span {
+        font-size: 16px;
+        padding: 6px;
+    }
+    #header .top-header .midle {
+        transform: skew(0deg, 0deg);
+    }
+    #header .top-header .midle .top-header-midle {
+        transform: skew(0deg, 0deg);
+    }
+    #header .top-header .midle .top-header-midle p {
+        font-size: 18px;
+        line-height: 40px;
+    }
+    #header .top-header .top-header-scl-cont {
+        text-align: center;
+    }
+    #header .top-header .top-header-scl-cont ul li a {
+        font-size: 20px;
+    }
+    /*------Header Ends Here--------*/
+
+        /*---------------------index.html End-----------------------*/
+
+
+        /*---------------------about.html Start---------------------*/
+        /*---------------------about.html End-----------------------*/
+
+
+
+        /*---------------------portfolio.html Start--------------------*/
+        /*---------------------portfolio.html End---------------------*/
+
+
+        /*---------------------contact.html Start--------------------*/
+        /*---------------------contact.html End----------------------*/
+
+
+
+        /*---------------------blogList.html Start---------------------*/
+        /*---------------------blogList.html End-----------------------*/
+
+
+
+        /*---------------------blogDetails.html Start--------------------*/
+        /*---------------------blogDetails.html End----------------------*/
+
+
+
+        /*---------------------Error.html Start-------------------------*/
+        /*---------------------Error.html End---------------------------*/
+
+
+
+        /*---------------------comingSoon.html Start----------------------*/
+        /*---------------------comingSoon.html End----------------------*/
 
 
  }
+
+ /*---------------------------------Small devices Start (MAX)---------------------------------*/
+
+
+
+
+/*---------------------------------Media devices Start (MAX)---------------------------------*/
  @media (max-width: 992px){
-/*Testimonal Section Start*/
+
+
+    
+        /*---------------------index.html Start---------------------*/
+
+    /*----Testimonal Section Start----*/
+
     #testimonal .testimonal-bg .client-feedback-slider {
         margin: 0 auto -16px;
         width: 100%;
@@ -68,55 +247,136 @@
         width: 100%;
         padding: 13px 33px;
     }
-    /*Testimonal Section End*/
+    /*----Testimonal Section End-----*/
+
+        /*---------------------index.html End-----------------------*/
+
+
+        /*---------------------about.html Start---------------------*/
+        /*---------------------about.html End-----------------------*/
+
+
+
+        /*---------------------portfolio.html Start--------------------*/
+        /*---------------------portfolio.html End---------------------*/
+
+
+        /*---------------------contact.html Start--------------------*/
+        /*---------------------contact.html End----------------------*/
+
+
+
+        /*---------------------blogList.html Start---------------------*/
+        /*---------------------blogList.html End-----------------------*/
+
+
+
+        /*---------------------blogDetails.html Start--------------------*/
+        /*---------------------blogDetails.html End----------------------*/
+
+
+
+        /*---------------------Error.html Start-------------------------*/
+        /*---------------------Error.html End---------------------------*/
+
+
+
+        /*---------------------comingSoon.html Start----------------------*/
+        /*---------------------comingSoon.html End----------------------*/
+
  }
 
+/*---------------------------------Media devices Start (MAX)---------------------------------*/
 
+
+/*---------------------------------Media devices Start (MIN)---------------------------------*/
 
  @media (min-width: 992px){
-    /*Nav Header Start*/
-    #header .myusNav .container .logo{
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50% , -50%);
-        transition: .5s ease-in;
-    }
-    #header .myusNav .container .logoActive{
-        left: 0%;
-        transform: translate(0 ,-50%);
-    }
-    /*Nav Header End*/
 
-    /*About Section Start */
-    #about .col-md-offset-2 {
+    
+        /*---------------------index.html Start---------------------*/
+
+       /*----Nav Header Start---*/
+        #header .myusNav .container .logo{
+           position: absolute;
+           top: 50%;
+           left: 50%;
+           transform: translate(-50% , -50%);
+           transition: .5s ease-in;
+       }
+        #header .myusNav .container .logoActive{
+           left: 0%;
+           transform: translate(0 ,-50%);
+     }
+     /*----Nav Header Start---*/
+
+        /*---------------------index.html End-----------------------*/
+
+
+
+
+        /*---------------------about.html Start---------------------*/
+
+
+       /*-----About Aboutus section Start-------*/
+ 
+       #about-aboutus .col-offset-1 {
+           margin-left: 8.33333333%;
+       }
+       #about-aboutus .col-md-6{
+           width: 50%;
+       }
+       /*-----About Aboutus section End-------*/
+
+
+       /*------About Mission Start------*/
+        #about-mission .col-md-offset-1 {
+           margin-right: 8.33333333%;
+       }
+       #about-aboutus .col-md-5{
+          width: 41.66666667%;
+       }
+       #about .col-md-offset-2 {
         margin-left: 16.66666667%;
-    }
-    /*About Section End */
-
-    /*------------------ABOUT HTML START-----------------------*/
-
-     /* About Aboutus section Start */
-     #about-aboutus .col-offset-1 {
-        margin-left: 8.33333333%;
-    }
-    #about-aboutus .col-md-6{
-        width: 50%;
-    }
-   /* About Aboutus section End */
+      }
+       /*------About Mission End------*/
 
 
-     /*About Mission Start */
-     #about-mission .col-md-offset-1 {
-        margin-right: 8.33333333%;
-    }
-    #about-aboutus .col-md-5{
-        width: 41.66666667%;
-    }
-    /*About Mission End */
+        /*---------------------about.html End-----------------------*/
 
-     /*------------------ABOUT HTML END-----------------------*/
- }
+
+
+        /*---------------------portfolio.html Start--------------------*/
+        /*---------------------portfolio.html End---------------------*/
+
+
+        /*---------------------contact.html Start--------------------*/
+        /*---------------------contact.html End----------------------*/
+
+
+
+        /*---------------------blogList.html Start---------------------*/
+        /*---------------------blogList.html End-----------------------*/
+
+
+
+        /*---------------------blogDetails.html Start--------------------*/
+        /*---------------------blogDetails.html End----------------------*/
+
+
+
+        /*---------------------Error.html Start-------------------------*/
+        /*---------------------Error.html End---------------------------*/
+
+
+
+        /*---------------------comingSoon.html Start----------------------*/
+        /*---------------------comingSoon.html End----------------------*/
+
+
+    }
+
+ /*---------------------------------Media devices Start (MIN)---------------------------------*/
 
 
 
